@@ -24,3 +24,6 @@
     a. abrir la consola con ctrl+ñ
     b. npm run watch-css
 
+img {
+        width: 80px;
+      }

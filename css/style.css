@@ -2,12 +2,11 @@
   margin: 0;
   padding: 0; }
 
-.navbar .navbar-expand-lg .container-fluid {
+.container-fluid {
   background: red;
   background: linear-gradient(266deg, red 0%, #f9f9ff 100%); }
-
-.navbar .navbar-expand-lg .navbar-brand img {
-  width: 80px; }
+  .container-fluid img {
+    width: 80px; }
 
 .container-footer {
   background: red;
@@ -20,6 +19,5 @@
   align-items: center;
   align-content: center;
   bottom: 0; }
-
-.container-footer img {
-  width: 2.7rem; }
+  .container-footer img {
+    width: 2.7rem; }
